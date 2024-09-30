@@ -4,7 +4,6 @@ Welcome to **Dragon Repeller**, a fun and interactive RPG-style browser game whe
 
 You begin as a brave adventurer with basic equipment and limited resources. Will you be able to gather enough experience, health, and gold to take down the mighty dragon? 🐲 Only time will tell!
 
-![Game Preview](link-to-game-screenshot)
 
 ---
 
